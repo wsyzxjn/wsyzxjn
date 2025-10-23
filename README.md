@@ -15,12 +15,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=wsyzxjn&show_icons=true&theme=tokyonight&locale=cn" alt="GitHub Stats" height="160" />
-<img src="https://readme-card-taupe.vercel.app/
-api/top-langs/?username=wsyzxjn&layout=compact&locale=cn&theme=tokyonight" alt="Top Langs" height="160" />
+<img src="https://readme-card-taupe.vercel.app/api/top-langs/?username=wsyzxjn&layout=compact&locale=cn&theme=tokyonight" />
 
 </div>
-
-<!-- 可选：贡献连续天数 -->
-<!-- <div align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=transparent" alt="GitHub Streak" height="160" />
-</div> -->
