@@ -12,9 +12,7 @@
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wsyzxjn&show_icons=true&theme=tokyonight&locale=cn" alt="GitHub Stats" height="160" />
-<img src="https://readme-card-taupe.vercel.app/api/top-langs/?username=wsyzxjn&layout=compact&locale=cn&theme=tokyonight" />
-
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=wsyzxjn&show_icons=true&theme=tokyonight&locale=cn" alt="GitHub Stats" height="160" />
+    <img src="https://readme-card-taupe.vercel.app/api/top-langs/?username=wsyzxjn&layout=compact&locale=cn&theme=tokyonight" height="160" />
 </div>
